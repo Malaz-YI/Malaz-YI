@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malaz YAKTI.
-- 👀 I’m interested in Web development (more into the backend), desktop & mobile applications, and game design (as a hobby).
-- 🌱 I’m currently learning JavaScript and C#.
+- 👀 I’m interested in Web development (leaning more towards the backend), desktop & mobile applications, and game design (as a hobby).
+- 🌱 I’m currently learning ReactJS.
 - 📫 You can reach me via Linkedin: https://www.linkedin.com/in/malaz-yakti-362995185/
 
 <!---
